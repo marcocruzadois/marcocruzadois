@@ -12,22 +12,6 @@ Mi enfoque actual está en integrar **IA y Machine Learning** en mis proyectos. 
 
 ---
 
-## 💼 Experiencia Relevante
-
-- **Senior Backend Developer – Minera Volcan**  
-  Diseño de microservicios escalables con Node.js, TypeScript y Prisma. CI/CD con GitHub Actions, despliegue en Docker, y colaboración estrecha con frontend (Angular 17).
-
-- **Full Stack Freelance – SIDERPERU**  
-  Desarrollo Angular + Flask con integración de AWS y autenticación avanzada (OKTA, Microsoft). Diseño de dashboards con Ng2-Charts.
-
-- **DevOps Freelance – GRUPOPANA**  
-  Implementación de Azure Functions y automatización de flujos de leads con pipelines personalizados.
-
-- **Full Stack – RPA LATAM**  
-  Desarrollo cloud con AWS, creación de APIs y bots conversacionales para medios como El Comercio y Trome. Automatización RPA con Power Automate y Workfusion.
-
----
-
 ## 🛠️ Tecnologías favoritas
 
 - **Lenguajes & Frameworks:**  
