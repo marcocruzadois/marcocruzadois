@@ -6,7 +6,7 @@
 
 ## 🚀 Sobre mí
 
-Soy un desarrollador full stack con más de 4 años de experiencia creando soluciones escalables en la nube, automatizando procesos complejos y construyendo productos que realmente funcionan. Trabajo con tecnologías modernas como **Node.js**, **TypeScript**, **Prisma**, **Angular**, **React**, **FastAPI** y herramientas en la nube como **AWS** y **Azure**.
+Soy un desarrollador full stack con más de 4 años de experiencia creando soluciones escalables en la nube, automatizando procesos complejos y construyendo productos que realmente funcionan. Trabajo con tecnologías modernas como **Node.js**, **TypeScript**, **Prisma**, **Angular**, **React**, **FastAPI** y herramientas en la nube como **AWS**,**GCP**, **Azure**.
 
 Mi enfoque actual está en integrar **IA y Machine Learning** en mis proyectos. Me encanta aprender cosas nuevas y entender cómo la tecnología puede mejorar los procesos del mundo real.
 
